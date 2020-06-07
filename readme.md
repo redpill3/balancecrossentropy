@@ -2,3 +2,4 @@
 2. model_1.95-0.99.hdf5 : segmentation task 를 통해 학습한 u-net의 가중치 파일( CBAM 모듈삽입상태 ) , fine-tunning 용으로 사용
 3. seg_input.zip : u-net의 Segmenation 학습용 
 4. best_weights.hdf5 : segmentation task 를 통해 학습한 u-net의 가중치 파일( CBAM 모듈 삽입 x ) , fine-tunning 용으로 사용
+5. 8class.zip : OOD클래스를 포함한 8개 클레스에 
